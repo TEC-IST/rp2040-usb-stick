@@ -6,7 +6,7 @@ The PCB exposes 4 x ADC and 6 x GPIO via small pads on the back of the PCB.  Oth
 
 Only 1.6mm PCB thickness is economical at JLCPCB, so the assembled PCB will need a shim on the portion that is inserted into the USB-A port to fit securely in place.
 
-*PCBs are currently on order*once available software will be uploaded to this repo*
+Effective 2023 April 12: PCBs are currently on order -- once available software will be uploaded to this repo.
 
 ![Screenshot 2023-04-12 163740](https://user-images.githubusercontent.com/60884082/231586485-e16b3b89-1600-4253-9b7d-e28b39eec167.png)
 
