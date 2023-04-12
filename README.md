@@ -1,6 +1,6 @@
 # rp2040-usb-stick
 
-This is a small RP2040-based stick for direct insertion into a USB-A port, for use as PC GPIO, oscilloscope, for custom interfaces, data logging, a mouse jiggler, etc.
+This is a small RP2040-based stick for direct insertion into a USB-A port, for use as PC GPIO, oscilloscope, custom interfaces, data logging, a mouse jiggler, etc.
 
 The PCB exposes 4 x ADC and 6 x GPIO via small pads on the back of the PCB.  Other GPIO are accessible as pad leadouts from the RP2040, although soldering to these will require some skill.
 
